@@ -13,7 +13,7 @@ The homebrew tap for v2ray-core.
 step 1: Add official tap
 
 ```bash
-brew tap v2ray/v2ray
+brew tap biuniun/homebrew-v2ray
 ```
 
 step 2: Install v2ray-core:
